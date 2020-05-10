@@ -2,5 +2,5 @@
 
 Simulação do site airBNB
 
-##Desafio Gama Academy Hiring Code
+## Desafio Gama Academy Hiring Code
 
